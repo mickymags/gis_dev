@@ -1,0 +1,15 @@
+name: geospatial_utils
+
+channels: 
+  - conda-forge 
+
+dependencies: 
+  - python=3.11
+  - requests>=2.31
+  - gdal>=3.13
+  - ruamel.yaml>=0.19
+  - geopandas>=1.1
+  - shapely
+  - sarpy>=2.0
+  - scipy
+  - scikit-image
