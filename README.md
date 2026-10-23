@@ -24,6 +24,8 @@ Variables indicated by <<>> indicate things that need to be replaced with your o
 
 python geospatial_main.py geojson_creator --outfile <<OUTFILE>> --xmin <<XMIN>> --ymin <<YMIN>> --xmax <<XMAX>> --ymax <<YMAX>>
 
+MORE FUNCTIONS COMING SOON! 
+
 
 
 
