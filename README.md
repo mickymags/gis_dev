@@ -20,7 +20,9 @@ python geospatial_main.py -h
 
 ### GeoJSON Creator 
 
-python geospatial_main.py geojson_creator --outfile /home/mmaganini/Documents/proposals/A18_Geosphere/prism_aoi_test_v3.geojson --xmin -76.45598 --ymin 36.95874 --xmax -76.27041 --ymax 37.11237
+Variables indicated by <<>> indicate things that need to be replaced with your own variables. 
+
+python geospatial_main.py geojson_creator --outfile <<OUTFILE>> --xmin <<XMIN>> --ymin <<YMIN>> --xmax <<XMAX>> --ymax <<YMAX>>
 
 
 
